@@ -1,0 +1,13 @@
+import React from "react";
+
+const About = () => {
+    return (
+        <>
+            <h1>
+                WELCOME about PG
+            </h1>
+        </>
+    )
+}
+
+export default About;
